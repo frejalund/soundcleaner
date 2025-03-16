@@ -5,13 +5,15 @@ While surfing online forums, I realized that people who were victims of the soni
 
 Here is the final result after 2 iterations (the program may over-do, so you have to monitor each output):
 
+# HERE ARE THE RESULTS:
+
 Iteration 1:  [h1.wav](https://github.com/frejalund/soundcleaner/raw/main/h1.wav)
 
 Iteration 2 (Final): [h2.wav](https://github.com/frejalund/soundcleaner/blob/main/h2.wav)
 
 
 
-
+### The video with original sound
 Most of the protesters were young adults and children, and there were 1 million of people or more during a peaceful protest that could have ended in a stampede. Here is the original video of the incident:
 
 
