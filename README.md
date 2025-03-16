@@ -18,7 +18,12 @@ Location: 1:07 to 1:08 for the clean sound of a jet engine (powering down does n
 The result which I have obtained is (sound only):
 
 
-The models that have been used are (in this exact sequence):
+The models that have been used are (in this exact sequence, you do not need more than 5 iterations while cleaning the samples):
+
+Iteration 1: Best file: C:\Users\cokal\Desktop\noise\test\MGM_HIGHEND_v4.pth\noise_(Instrumental)_MGM_HIGHEND_v4.wav, Score: 0.0274
+
+Iteration 2: Best file: C:\Users\cokal\Desktop\noise\test\3_HP-Vocal-UVR.pth\noise_(Instrumental)_3_HP-Vocal-UVR.wav, Score: 0.0429
+
 
 
 Use GPT to figure out what the program really does and how it works.  You will need to hardcode the paths to wave files and folders, since I was focusing in the end result and not the best coding practices.
