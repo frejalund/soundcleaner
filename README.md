@@ -1,7 +1,16 @@
 # Audio Sample Cleaning Program
 
 This program was created entirely by me to separate the noise from the vocals in an iterative manner using the latest AI models.
-While surfing online forums, I realized that people who were victims of the sonic weapon attack during the peaceful protest in Belgrade on March 15th, 2025, are traumatized and need to hear the sound emitted by the sonic weapon. Most of the protesters were young adults and children, and there were 1 million of people or more during a peaceful protest that could have ended in a stampede. Here is the original video of the incident:
+While surfing online forums, I realized that people who were victims of the sonic weapon attack during the peaceful protest in Belgrade on March 15th, 2025, are traumatized and need to hear the sound emitted by the sonic weapon.
+
+Here is the final result after 2 iterations (the program may over-do, so you have to monitor each output):
+
+Iteration 1:
+
+
+
+
+Most of the protesters were young adults and children, and there were 1 million of people or more during a peaceful protest that could have ended in a stampede. Here is the original video of the incident:
 
 
 https://github.com/user-attachments/assets/a110b899-da2a-4665-ad6a-b7a481f96b22
