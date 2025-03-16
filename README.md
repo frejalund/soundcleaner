@@ -5,9 +5,9 @@ While surfing online forums, I realized that people who were victims of the soni
 
 Here is the final result after 2 iterations (the program may over-do, so you have to monitor each output):
 
-Iteration 1:  https://github.com/frejalund/soundcleaner/raw/main/h1.wav
+Iteration 1:  [h1.wav](https://github.com/frejalund/soundcleaner/raw/main/h1.wav)
 
-Iteration 2 (Final): [ https://github.com/frejalund/soundcleaner/raw/main/h1.wav](https://github.com/frejalund/soundcleaner/blob/main/h2.wav)
+Iteration 2 (Final): [h2.wav](https://github.com/frejalund/soundcleaner/blob/main/h2.wav)
 
 
 
