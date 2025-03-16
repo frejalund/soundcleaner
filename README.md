@@ -39,7 +39,6 @@ For the cleaning process, a jet engine sound sample of less than 1 second is use
 
 The program employs a series of models to iteratively clean the audio sample. Below are the iterations performed:
 
-```plaintext
 **Iteration 1:**
 - Best File: `C:\Users\cokal\Desktop\noise\test\MGM_HIGHEND_v4.pth\noise_(Instrumental)_MGM_HIGHEND_v4.wav`
 - Score: 0.0274
