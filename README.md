@@ -53,3 +53,4 @@ The program employs a series of models to iteratively clean the audio sample. Be
 
 Use GPT to figure out what the program really does and how it works.  You will need to hardcode the paths to wave files and folders, since I was focusing in the end result and not the best coding practices.
 
+Please note, I am not sure how legitimate the original sound is in the video, I took it because it claimed to be the best recording. You may use this software to clean the human voices from any other video or audio.
